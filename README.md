@@ -1,2 +1,2 @@
 # Discord_Bot
-.NET Discord Bot
+C# & .NET Discord Bot
