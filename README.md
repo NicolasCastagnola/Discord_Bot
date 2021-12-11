@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-# C# & .NET Discord Bot Template</h1>
+   # C# & .NET Discord Bot Template</h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -20,7 +20,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's why:
+Why you should use this:
 * Efficient Discord bot developed in Visual Studio 2019. 
 * Contains Template Commands.
 * Web Scraping with HtmlAgilityPack (1.11.32) 
@@ -63,12 +63,6 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
