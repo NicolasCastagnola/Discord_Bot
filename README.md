@@ -1,4 +1,4 @@
-<div id="top" align="center"></div>
+<div style="text-align:center"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -16,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">C# & .NET Discord Bot Template</h3>
+  <h1 align="center">C# & .NET Discord Bot Template</h1>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -51,9 +51,6 @@ Here's why:
 * [Discord API](https://discord.com/developers/docs/intro)
 * [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 * [HTMLAgilityPack](https://html-agility-pack.net/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ### Installation
 
