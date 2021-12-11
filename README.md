@@ -1,4 +1,4 @@
-<div style="text-align:center"></div>
+<div style="text-align:center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -7,14 +7,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-   # C# & .NET Discord Bot Template</h1>
 </div>
 
+# C# & .NET Discord Bot Template
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
