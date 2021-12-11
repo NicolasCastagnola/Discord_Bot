@@ -1,4 +1,4 @@
-<div id="top"></div>
+<div id="top" align="center"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -45,9 +45,6 @@ Here's why:
 * Web Scraping with HtmlAgilityPack (1.11.32) 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 ### Built With
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -69,9 +66,6 @@ Here's why:
    string token = "Discord bot token ID";
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -85,9 +79,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
