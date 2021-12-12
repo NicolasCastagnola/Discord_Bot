@@ -68,7 +68,7 @@ namespace Discord_Bot.Modules
 
             [Command("flush")]
             [RequireUserPermission(GuildPermission.ManageMessages)]
-            public async Task PurgeChat(uint amount)
+            public async Task FlushChat(uint amount)
             {
                 var messages = await Context.Channel.GetMessageAsync(amount);
                 await Context.Channel.DeleteMessageAsync(messages);
